@@ -6,7 +6,7 @@
     "strictNullChecks": true,
     "moduleResolution": "node",
     "sourceMap": true,
-    "outDir": "dist",
+    "outDir": "app",
     "baseUrl": ".",
     "paths": {
       "*": [
