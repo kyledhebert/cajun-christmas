@@ -1,0 +1,31 @@
+{
+  "name": "cajunnightbefore",
+  "version": "1.0.0",
+  "description": "A Twitter bot that tweets the verses of A Cajun night before Christmas.",
+  "main": "bot.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "kyledhebert",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kyledhebert/cajun-christmas.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/twit": "^2.2.8",
+    "nodemon": "^1.12.1",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.6.1"
+  },
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
